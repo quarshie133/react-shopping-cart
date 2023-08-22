@@ -6,6 +6,7 @@ export const Wrapper = styled.div`
   flex-direction: column;
   width: 100%
   border: 1px solid lightblue;
+  border-radius: 20px;
   height: 100%;
 
   button {
@@ -19,7 +20,9 @@ export const Wrapper = styled.div`
   }
 
   div {
-      font-family: Ariel,
+      font-family: Arial, Helvetica, sans-serif;
+      padding: 1rem;
+      height: 100%;
   }
 
 
