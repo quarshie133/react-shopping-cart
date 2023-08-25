@@ -8,7 +8,7 @@ React shopping-cart is a web application where people can shop for cloths, thus 
 * Styled-Components: For CSS in JS.
  
 **Built with**
-* Language: Typescript.
+* Language: Typescript, HTML5.
 * Platform: Windows, MacOS
 * Browser: Chrome, Firefox, Safari.
-* Hosting: Netifly.
+* Hosting: Netifly.com.
